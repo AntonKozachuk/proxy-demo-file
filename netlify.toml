@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/api/reference/*"
-  to = "https://netlify-test.redoc.online/"
+  from = "/api/reference"
+  to = "https://netlify-test.redoc.online"
   status = 200
   force = false
