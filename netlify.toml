@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/reference/*"
+  to = "https://netlify-test.redoc.online/:splat"
+  status = 200
+  force = false
